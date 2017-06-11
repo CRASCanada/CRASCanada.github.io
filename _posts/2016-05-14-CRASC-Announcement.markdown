@@ -1,9 +1,7 @@
 ---
-layout:     plysurface
-title:      加华市场研究会CRAS（Canada）成立宣告
+layout: 	post
+title:      加华市场研究会 CRAS (Canada) 成立宣告
 author:     CRASC
-
-plydata: 	/ply/ChunkColoredWeb.ply
 ---
 
 ## 协会宗旨
