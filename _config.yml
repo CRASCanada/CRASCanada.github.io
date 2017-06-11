@@ -1,10 +1,7 @@
 # Site settings
-title: CRASCanada
+title: CRAS (Canada)
 description: "Chinese Research & Analytics Society (Canada)"
 url: "https://CRASCanada.github.io"
-
-
-
 
 # Secondary Parameters
 baseurl: ""
@@ -18,6 +15,8 @@ logo: /img/logos/CRASC.png
 #disqus_shortname: project-pages
 #g-analytics: UA-75881392-1
 #altmetric: true
+linkedin_username: 22334010
+weixin_username: crascanada
 
 # Build settings
 gems: [jekyll-paginate]
@@ -75,14 +74,14 @@ prose:
           options:
             - name: "Post"
               value: "post"
-            - name: "Slide"
-              value: "slide"
-            - name: "Projector"
-              value: "projector"
-            - name: "Notebook"
-              value: "notebook"
-            - name: "Ply Surface"
-              value: "plysurface"
+            #- name: "Slide"
+            #  value: "slide"
+            #- name: "Projector"
+            #  value: "projector"
+            #- name: "Notebook"
+            #  value: "notebook"
+            #- name: "Ply Surface"
+            #  value: "plysurface"
       - name: "title"
         field:
           element: "text"
