@@ -25,3 +25,19 @@ author:     CRASC
 * 社交娱乐活动
 * 定期通过微信等社交媒体平台发布华裔的声音调查研究报告
 * 年度联合调研报告 （加拿大或全球华人生活方式和媒体习惯全景调研报告）
+
+---
+
+## 加入我们
+
+入会首次注册费：20元;
+
+会员费：20元.
+
+第二年开始续费为每年：20元（预计一年4次活动）
+
+会员活动参与费用：免费.
+
+非会员参与活动费用：每次10元.
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/bbylg7SuiaLdwwaQSrHPj14tu35LkxtdA90nCM6uUjX6sQ7uXnPKfqIiaf4Y4fgJsy8bCKsXotX6qXeiaPo75bic2w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)

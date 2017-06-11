@@ -17,6 +17,7 @@ logo: /img/logos/CRASC.png
 #altmetric: true
 linkedin_username: 22334010
 weixin_username: crascanada
+email: crascanada@yahoo.com
 
 # Build settings
 gems: [jekyll-paginate]
