@@ -29,6 +29,8 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Jekyll Settings
 
+excerpt_separator: "<!--more-->"
+
 defaults:
   -
     scope:

@@ -11,6 +11,8 @@ author:     CRASC
 
 加华市场研究会为你带来《市场研究行业就业指导讲座》，荟萃中英文背景的行业领头人，与业内新晋精英一同告诉你，文化差异到底会怎样影响你的求职之路，以及加拿大的市场研究行业需要什么样的人才！
 
+<!--more-->
+
 ## 嘉宾阵容
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/bbylg7SuiaLcpDkOqYVKh6CNibEC06cPSqrKMgGxFJqUPHQoiaqx0v6ks3ib7NQraJIPIxfqJFv25ydxgiafCFySQicQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
