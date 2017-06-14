@@ -15,7 +15,7 @@ layout: page
 
     {{ post.excerpt }}
 
-    {% if site.excerpt_separator != post.content contains %}
+    {% if post.content contains site.excerpt_separator %}
       <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
     {% endif %}
 
