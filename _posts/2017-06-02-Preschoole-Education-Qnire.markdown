@@ -2,6 +2,7 @@
 layout: 	post
 title:      问卷|你的孩子要上多少课外班？
 author:     CRASC
+category:	study
 ---
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/bbylg7SuiaLciaPqSab80H4iaAlNibmAcTKa1oBcKn6feeCDmUicyDomUdZafq7opayiaedIsEcQNz48ibdCMUlicdYasQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)

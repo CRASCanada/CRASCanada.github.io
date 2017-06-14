@@ -2,6 +2,7 @@
 layout: 	post
 title:      加华市场研究会成立大会胜利召开
 author:     CRASC
+category:	event
 ---
 
 2017年5月14日下午，加华市场研究会(Chinese Research and Analytics Society (Canada))成立大会在加拿大安省列治文山Bayview Hill社区中心隆重举行。来自大多伦多地区的近30名从事市场研究和分析的华裔人士，欢聚一堂，交流切磋。会员中既有从业多年的“老克勒”，也有新入行的后起之秀。是共同的职业经历、志向和兴趣把大家聚到一起。

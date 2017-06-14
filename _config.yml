@@ -34,10 +34,10 @@ excerpt_separator: "<!--more-->"
 defaults:
   -
     scope:
-      path: "projects"
+      path: "category"
       type: "pages"
     values:
-      layout: "project"
+      layout: "page"
       header-img: "img/home-bg.jpg"
 
 # Prose Settings
@@ -47,7 +47,7 @@ prose:
   ispp: true
   media: 'img'
   metadata:
-    projects:
+    category:
       - name: "title"
         field:
           element: "text"

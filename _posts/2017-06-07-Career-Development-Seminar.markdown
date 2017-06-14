@@ -2,6 +2,7 @@
 layout: 	post
 title:      市场研究行业就业指导讲座
 author:     CRASC
+category:	event
 ---
 
 在会计金融计算机大潮里，你因为学了“非主流”的市场研究，在求职路上“找不到套路”？
