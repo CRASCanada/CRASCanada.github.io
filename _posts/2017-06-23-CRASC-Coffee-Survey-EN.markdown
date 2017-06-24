@@ -1,6 +1,6 @@
 ---
 layout: 	post
-title:      Is Coffee “Your Cup of tea”?
+title:      Is Coffee “Your Cup of Tea”?
 author:     CRASC
 category:	study
 ---
