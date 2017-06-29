@@ -20,7 +20,7 @@ weixin_username: MzU0NzA0NzMyNw==&scene=124#wechat_redirect
 email: crascanada@yahoo.com
 
 # Build settings
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap]
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
