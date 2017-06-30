@@ -93,3 +93,5 @@ This survey was sponsored by Chinese Research and Analytics Society (Canada) (CR
 
 > **About Chinese Research & Analytics Society (Canada) (CRASC)** <br/>
 Chinese Research & Analytics Society (Canada) (CRASC) is a not-for-profit professional organization founded by a number of research and analytics professionals of Chinese origin who currently work in the Greater Toronto area. The organization serves as a community for research and analytics professionals originally from China to network, share, learn from one another and develop their career in Canada. CRASC is also committed to bridge the information and insights gap about Canadian Chinese as one of the largest ethnic groups in Canada. We believe that our organization is best positioned to provide the public, government organizations, media, and businesses in Canada and China with an unbiased view of Canadian Chinese, their lifestyle, values, opinion and their needs.
+
+> Photo: "London Calling" by [Thomas Leuthard](https://www.flickr.com/photos/thomasleuthard/8749800069)
