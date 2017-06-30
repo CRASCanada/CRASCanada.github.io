@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "Chinese Research & Analytics Society (Canada)"
-header-img: "img/home-bg.jpg"
+header-img: "img/about-bg.jpg"
 ---
 
 <p align="center">

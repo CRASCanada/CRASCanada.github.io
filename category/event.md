@@ -2,6 +2,6 @@
 layout: cat
 title: "Events"
 description: ""
-header-img: "img/home-bg.jpg"
+header-img: "img/event-bg.jpg"
 category: event
 ---

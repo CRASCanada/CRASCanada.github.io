@@ -2,6 +2,6 @@
 layout: cat
 title: "Studies"
 description: ""
-header-img: "img/home-bg.jpg"
+header-img: "img/study-bg.jpg"
 category: study
 ---
