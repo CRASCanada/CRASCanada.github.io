@@ -1,6 +1,7 @@
 ---
 layout: 	post
 title:      魔都虎妈 PK 多伦多狼妈：谁家孩子更辛苦？
+header-img:	"img/blogs/06282017ECAReportHeader.jpg"
 author:     CRASC
 category:	study
 ---
