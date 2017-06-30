@@ -5,9 +5,9 @@ author:     CRASC
 ---
 
 ## 协会宗旨
-
+<p align="justify">
 代表在加拿大本地的华裔市场研究和分析领域的专业人士，为他们的职业发展，社交文化交流，获得个人成长和社会认可提供帮助和服务；同时为加拿大和中国的公众，社会，政府和企事业单位提供客观公正的华裔生活方式和价值观的解读，成为协会会员回馈社会，创造社会价值的平台。
-
+</p>
 <!--more-->
 
 ## 会员价值主张
@@ -17,9 +17,9 @@ author:     CRASC
 * 是连结加拿大和中国市场研究专业协会的桥梁 (MRIA, ESOMAR, etc.)
 
 ## 社会价值主张
-
+<p align="justify">
 为公众，政府，加拿大和中国与海外华裔相关的企事业单位提供客观公正的加拿大及全球华裔的声音，他们的生活方式，媒体习惯，价值观和消费习惯等等
-
+</p>
 ## 协会活动内容
 
 * 年度全体会员大会
@@ -32,14 +32,14 @@ author:     CRASC
 
 ## 加入我们
 
-入会首次注册费：20元;
-
-会员费：20元.
+入会首次注册费：20元 <br/>
+会员费：20元
 
 第二年开始续费为每年：20元（预计一年4次活动）
 
-会员活动参与费用：免费.
-
+会员活动参与费用：免费 <br/>
 非会员参与活动费用：每次10元.
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/bbylg7SuiaLdwwaQSrHPj14tu35LkxtdA90nCM6uUjX6sQ7uXnPKfqIiaf4Y4fgJsy8bCKsXotX6qXeiaPo75bic2w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1){: .img-responsive }
+<p align="center">
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/bbylg7SuiaLdwwaQSrHPj14tu35LkxtdA90nCM6uUjX6sQ7uXnPKfqIiaf4Y4fgJsy8bCKsXotX6qXeiaPo75bic2w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1">
+</p>
