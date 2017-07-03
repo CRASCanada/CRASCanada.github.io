@@ -57,3 +57,4 @@ We believe that our organization is best positioned to provide the  public, gove
 <p align="center">
   <img src="https://mmbiz.qpic.cn/mmbiz_jpg/bbylg7SuiaLdwwaQSrHPj14tu35LkxtdA90nCM6uUjX6sQ7uXnPKfqIiaf4Y4fgJsy8bCKsXotX6qXeiaPo75bic2w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1">
 </p>
+<span class="caption text-muted">Scan the QR code and subscribe to our WeChat account</span>

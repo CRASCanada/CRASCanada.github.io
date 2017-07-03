@@ -85,13 +85,12 @@ A quarter of all respondents claim that coffee help them relax and keep them che
 <p align="center">
   <img src="https://mmbiz.qpic.cn/mmbiz_jpg/bbylg7SuiaLeEo3RDibPX7sz6a9AZjO7yAH2yRsOur2BOsWyoTR28BWR6rLMeick7qRiaIibc6bjicL4e5yLcaRS69YQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1">
 </p>
+<span class="caption text-muted">Photo: "London Calling" by [Thomas Leuthard](https://www.flickr.com/photos/thomasleuthard/8749800069)</span>
 
----
+------
 
-> **Methodology** <br/>
+> **Methodology** <br/><br/>
 This survey was sponsored by Chinese Research and Analytics Society (Canada) (CRASC). Data was collected from May 10 to May 18, 2017 via the online survey platform of lediaocha.com. Survey links were distributed among Chinese immigrants in Canada though WeChat Moment and WeChat groups by CRASC members. In total, 377 valid samples were received. Data processing and analysis were conducted by CRASC members.
 
-> **About Chinese Research & Analytics Society (Canada) (CRASC)** <br/>
-Chinese Research & Analytics Society (Canada) (CRASC) is a not-for-profit professional organization founded by a number of research and analytics professionals of Chinese origin who currently work in the Greater Toronto area. The organization serves as a community for research and analytics professionals originally from China to network, share, learn from one another and develop their career in Canada. CRASC is also committed to bridge the information and insights gap about Canadian Chinese as one of the largest ethnic groups in Canada. We believe that our organization is best positioned to provide the public, government organizations, media, and businesses in Canada and China with an unbiased view of Canadian Chinese, their lifestyle, values, opinion and their needs.
-
-> Photo: "London Calling" by [Thomas Leuthard](https://www.flickr.com/photos/thomasleuthard/8749800069)
+> **About Chinese Research & Analytics Society (Canada)** <br/><br/>
+Chinese Research & Analytics Society (Canada) (CRASC) is a not-for-profit professional organization founded by a number of research and analytics professionals of Chinese origin who currently work in the Greater Toronto area. The organization serves as a community for research and analytics professionals originally from China to network, share, learn from one another and develop their career in Canada. CRASC is also committed to bridge the information and insights gap about Canadian Chinese as one of the largest ethnic groups in Canada.  <br/><br/> We believe that our organization is best positioned to provide the public, government organizations, media, and businesses in Canada and China with an unbiased view of Canadian Chinese, their lifestyle, values, opinion and their needs.
