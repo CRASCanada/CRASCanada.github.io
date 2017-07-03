@@ -5,6 +5,7 @@ title:      "Toronto vs. Shanghai: How Chinese Parents Manage Their Kids' Extra-
 author:     CRASC
 description:	A recent study shows no matter where you live, Toronto or Shanghai, more than 90% of children under 12 years old participate any sorts of extra curriculum activities.
 category:	study
+published:	false
 ---
 
 <p align="justify">
