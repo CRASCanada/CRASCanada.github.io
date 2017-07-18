@@ -26,13 +26,5 @@ In general, Chinese parents based on Toronto accentuate interests and diversity.
 </p>
 
 <iframe src="/img/blogs/TO-SH-ECA-Report-EN.pdf" width="100%" height="800rem">
-This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/brain_in_a_vat.pdf">Download PDF</a>
+This browser does not support PDFs. Please download the PDF to view it: <a href="/img/blogs/TO-SH-ECA-Report-EN.pdf">Download PDF</a>
 </iframe>
-
-> **Methodology** <br/><br/>
-This research was conducted soly by CRAS (Canada). All data collection was completed by LeDiaoCha online survey platform between June 2nd 2017 to June 12th 2017. The questionnaire was distributed to Shanghai and Toronto parents via WeChat. CRAS (Canada) compiled all the data, conducted all the analysis and delivered final results. <br/><br/>Special thanks to the "Extra-Curricular" project group members: Stan Li, Rex, Xing Xu, Yelu Li, Evelyne Han.
-
-
-> **About Chinese Research & Analytics Society (Canada) (CRASC)** <br/><br/>
-Chinese Research & Analytics Society (Canada) (CRASC) is a not-for-profit professional organization founded by a number of research and analytics professionals of Chinese origin who currently work in the Greater Toronto area. The organization serves as a community for research and analytics professionals originally from China to network, share, learn from one another and develop their career in Canada. CRASC is also committed to bridge the information and insights gap about Canadian Chinese as one of the largest ethnic groups in Canada.<br/><br/>
-We believe that our organization is best positioned to provide the public, government organizations, media, and businesses in Canada and China with an unbiased view of Canadian Chinese, their lifestyle, values, opinion and their needs.
