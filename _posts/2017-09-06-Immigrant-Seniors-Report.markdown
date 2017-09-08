@@ -122,7 +122,7 @@ Being filial is an eternal subject among Chinese community, it is every son’s 
 
 2. Encourage the elderly parents to go out and participate in all kinds of community activities independently, and provide necessary help and support.
 
-3. If the physical condition of the elderly parents permits, it is suggested to let elderly parents visit China on a regular basis. In this research <span style="color:red">about one third (64%) of the elderly immigrants express that the most ideal situation is being able to commute between China and Canada.</span>
+3. If the physical condition of the elderly parents permits, it is suggested to let elderly parents visit China on a regular basis. In this research <span style="color:red">about two thirds (64%) of the elderly immigrants express that the most ideal situation is being able to commute between China and Canada.</span>
 
 <p align="center">
 <u>If free to choose, you would</u>
